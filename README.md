@@ -23,8 +23,13 @@ I am sophomore at Birla Institute of Technology, Mesra, Patna Campus currently p
 <!-- - 💬 Ask me about ... -->
 
 ### 📫 How to reach me: 
-   * [My LinkedIn Profile](https://www.linkedin.com/in/raghvendra-prasad-srivastava-a665a81a3/)
-   * My Email ID <i>raghvendraprasad5678@gmail.com</i> 
+   
+   *  <a  href="https://www.linkedin.com/in/raghvendra-prasad-srivastava-a665a81a3/">
+        <img src="LinkedIn.png" alt="LinkedIn img" width="25" height="25">
+      </a>
+   *  <a  href="https://www.instagram.com/raghavraj_2_y_7/">
+        <img src="instagram.png" alt="Instagram img" width="25" height="25">
+      </a>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
