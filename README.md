@@ -22,7 +22,7 @@ I am sophomore at Birla Institute of Technology, Mesra, Patna Campus currently p
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
    
    *  <a  href="https://www.linkedin.com/in/raghvendra-prasad-srivastava-a665a81a3/">
         <img src="LinkedIn.png" alt="LinkedIn img" width="25" height="25">
