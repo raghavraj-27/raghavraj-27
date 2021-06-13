@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I am Raghvendra! </h1>
 
 <p align="center">
-  <img width="1200" height="500" src="https://camo.githubusercontent.com/3731a2c6fab7a8fc8a275b279b167400055fb56eb600d1bb37c4a813d6a79baf/68747470733a2f2f6d656469612e77697265642e636f6d2f70686f746f732f3566343531353030643734313531376434663039303337312f6d61737465722f775f32353630253243635f6c696d69742f6f70656e2d736f757263652e706e67">
+  <img width="1200" height="500" src="FrontImage.png">
 </p>
 
 ****
