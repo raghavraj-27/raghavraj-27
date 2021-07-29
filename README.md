@@ -14,22 +14,22 @@ I am a third-year student at Birla Institute of Technology, Mesra, Patna Campus 
 - 👯 I’m looking to collaborate on WebDev projects and C, C++ and Java based projects 
 - 🌴 My Technology Stack
 
-     *  C
-     *  C++
-     *  Java
-     *  HTML, CSS, JavaScript
+     *  C, C++, Java
+     *  HTML, CSS, JavaScript, React
 <!-- -   -->
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
 
-## 📫 How to reach me: 
-   
+## 📫 How to reach me:
    *  Email ID : <i>raghvendraprasad5678@gmail.com</i>
    *  LinkedIn Profile : <a href="https://www.linkedin.com/in/raghvendra-prasad-srivastava-a665a81a3/">
         <img src="LinkedIn.png" alt="LinkedIn img" width="25" height="25">
       </a>
    *  Instagram : <a href="https://www.instagram.com/raghavraj_2_y_7/">
         <img src="instagram.png" alt="Instagram img" width="25" height="25">
+      </a>
+   *  Hashnode : <a href="https://hashnode.com/@raghavraj-27">
+        <img src="HASHNODE.png" alt="Hashnode img" width="25" height="25">
       </a>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
