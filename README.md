@@ -7,7 +7,7 @@
 ****
 
 ## About me
-I am sophomore at Birla Institute of Technology, Mesra, Patna Campus currently pursuing my bachelor degree in Information Technology. I love to solve problems related to Data Structures and Algorithms. I have always loved to sit in front of computer and learn things from it by doing practical. I have just started exploring this Open Source field and just by starting it has taught me a lot of things by which my love for open source has been increased a lot. 
+I am a third-year student at Birla Institute of Technology, Mesra, Patna Campus currently pursuing my bachelor degree in Information Technology. I love to solve problems related to Data Structures and Algorithms. I have always loved to sit in front of computer and learn things from it by doing practical. I have just started exploring this Open Source field and just by starting it has taught me a lot of things by which my love for open source has been increased a lot. 
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning ReactJS and Python
