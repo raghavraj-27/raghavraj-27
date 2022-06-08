@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 I am Raghvendra! </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img width="1200" height="500" src="FrontImage.png">
-</p>
+</p> -->
 
 ****
 
